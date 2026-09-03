@@ -1,12 +1,10 @@
 # Image Reconstruction and Motion Gating
 
-The tutorial consists of a self contained .ipynb note book. One way to run this notebook is using Google Colab. 
-
-## Opening the Tutorial in Google Colab
-
 The tutorial notebook is hosted on GitHub and can be opened directly in Google Colab.
 
-### Method 1: Open from GitHub
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicholas-senn/teaching-resources/blob/main/lung-MRI/Advanced-Chest-MRI-School-2026/Image%20Reconstruction%20and%20Motion%20Gating/Radial_Gridded_Image_Reconstruction_and_Motion_Gating.ipynb)
+
+or
 
 1. Go to:
 
