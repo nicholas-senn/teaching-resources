@@ -10,3 +10,9 @@ The software and accompanying materials are provided "as is", without warranty o
 These materials are **not intended for clinical use**, medical diagnosis, patient management, treatment planning, regulatory decision-making, or any other healthcare-related decision process.
 
 The views and opinions expressed in these materials are those of the authors only.
+
+## Licence
+
+Code contained within this repository is released under the MIT Licence.
+
+Educational, research and teaching use is encouraged. If these materials contribute to academic work, please acknowledge and cite any associated publications where appropriate.
