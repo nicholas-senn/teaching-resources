@@ -10,7 +10,7 @@ or
 
 https://colab.research.google.com
 
-2. Select the **GitHub** tab.
+2. Select Upload Notebook and the **GitHub** tab.
 
 3. Paste the repository URL:
 
