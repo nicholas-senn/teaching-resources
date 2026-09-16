@@ -1,5 +1,5 @@
 
-# Image Reconstruction and Motion Gating
+# Image Registration
 
 The tutorial notebook is hosted on GitHub and can be opened directly in Google Colab. Hence the tutorial can be ran in the browser only using Google Colab computer resources. 
 
